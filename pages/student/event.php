@@ -112,7 +112,7 @@ if (!$resultEvents) {
             <nav class="col-md-2 d-none d-md-block bg-dark sidebar min-vh-100" style="padding:0; position: fixed;">
                 <div class="position-sticky">
                     <div class="p-3 text-white">
-                        <h4>MẦM NON XANH</h4>
+                        <h4>Mẫu Giáo Hoa Hồng</h4>
                     </div>
                     <ul class="nav flex-column">
                         <li class="nav-item" >

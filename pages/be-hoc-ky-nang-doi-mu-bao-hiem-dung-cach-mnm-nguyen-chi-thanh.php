@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../css/style.css">
     <script src="https://kit.fontawesome.com/9574f0deef.js" crossorigin="anonymous"></script>
 
-    <title>Mầm Non xanh</title>
+    <title>Mẫu Giáo Hoa Hồng</title>
 </head>
 <body>
     <?php include "header.php" ?>
@@ -15,9 +15,9 @@
             <img class="img-bh" src="../images/event-mubaohiem.jpg" alt="">
         </div>
         <h1 class="evvent-title">BÉ HỌC KỸ NĂNG ĐỘI MŨ BẢO HIỂM ĐÚNG CÁCH! (MNM NGUYỄN CHÍ THANH)</h1>
-        <p class="evvent-text" >Tại Mầm Non Xanh, an toàn luôn được ưu tiên hàng đầu! Hôm nay, các bé đã học được cách đội mũ bảo hiểm đúng cách qua từng bước hướng dẫn chi tiết của cô giáo từ việc quan sát đến thực hành, các bé không chỉ hiểu được tầm quan trọng của mũ bảo hiểm mà còn tự tin đội mũ một cách thành thạo.
+        <p class="evvent-text" >Tại Mẫu Giáo Hoa Hồng, an toàn luôn được ưu tiên hàng đầu! Hôm nay, các bé đã học được cách đội mũ bảo hiểm đúng cách qua từng bước hướng dẫn chi tiết của cô giáo từ việc quan sát đến thực hành, các bé không chỉ hiểu được tầm quan trọng của mũ bảo hiểm mà còn tự tin đội mũ một cách thành thạo.
         Cô giáo khen ngợi các bé đã thực hành rất tốt kỹ năng. Các bé nhớ đội mũ bảo hiểm khi tham gia giao thông để đảm bảo an toàn cho bản thân nhé!
-        Những năm mẫu giáo là thời điểm hoàn hảo để bé học các kỹ năng giúp bé trở nên độc lập, có trách nhiệm và tự tin. Cùng Mầm Non Xanh xây dựng thói quen tốt cho bé từ những điều nhỏ nhất, ba mẹ nhé!</p>
+        Những năm mẫu giáo là thời điểm hoàn hảo để bé học các kỹ năng giúp bé trở nên độc lập, có trách nhiệm và tự tin. Cùng Mẫu Giáo Hoa Hồng xây dựng thói quen tốt cho bé từ những điều nhỏ nhất, ba mẹ nhé!</p>
 
         <div class="img-event-activity2">
     <img src="../images/event-mubaohiem1.jpg" alt="Image 1">

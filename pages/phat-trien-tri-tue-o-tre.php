@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../css/style.css">
     <script src="https://kit.fontawesome.com/9574f0deef.js" crossorigin="anonymous"></script>
     
-    <title>Mầm Non xanh</title>
+    <title>Mẫu Giáo Hoa Hồng</title>
 </head>
 <body>
     <?php include "header.php" ?>

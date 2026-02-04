@@ -101,7 +101,7 @@ $conn->close();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mầm Non xanh</title>
+    <title>Mẫu Giáo Hoa Hồng</title>
     <script src="https://kit.fontawesome.com/9574f0deef.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./css/style.css">
 </head>
@@ -325,7 +325,7 @@ $conn->close();
     <div class="project">
         <div class="project-title">
             <div class="pr-title">
-            <h2 >Trường Mầm Non Xanh</h2>
+            <h2 >Trường Mẫu Giáo Hoa Hồng</h2>
             <h1 >Dự án của bé</h1>
             </div>
         </div>
@@ -340,8 +340,8 @@ $conn->close();
                     <a href=""><img src="images/pr-1.png" alt="project"></a>
                 </div>
                 <div class="pr-name">
-                    <h3>Trải nghiệm rạp phim 1/6 tại trường Mầm Non Xanh</h3>
-                    <p>Tại Rạp chiếu phim của Trường Mầm Non Xanh các bạn nhỏ đã được tham [...]</p>
+                    <h3>Trải nghiệm rạp phim 1/6 tại trường Mẫu Giáo Hoa Hồng</h3>
+                    <p>Tại Rạp chiếu phim của Trường Mẫu Giáo Hoa Hồng các bạn nhỏ đã được tham [...]</p>
                 </div>
             </div>
             <div class="project-item">
@@ -349,8 +349,8 @@ $conn->close();
                     <a href=""><img src="images/pr-2.png" alt="project"></a>
                 </div>
                 <div class="pr-name">
-                    <h3>Lễ tốt nghiệp của các bé trường Mầm non xanh</h3>
-                    <p>HỆ THỐNG TRƯỜNG MẦM NON XANH CS 1 Mầm non xanh montessori – Cát [...]</p>
+                    <h3>Lễ tốt nghiệp của các bé trường Mẫu Giáo Hoa Hồng</h3>
+                    <p>HỆ THỐNG TRƯỜNG Mẫu Giáo Hoa Hồng CS 1 Mẫu Giáo Hoa Hồng montessori – Cát [...]</p>
                 </div>
             </div>
             <div class="project-item">
@@ -359,7 +359,7 @@ $conn->close();
                 </div>
                 <div class="pr-name">
                     <h3>Thăm quan nhà sách – Ngày hội đọc sách</h3>
-                    <p>Let’s gocùng Trường Mầm Non Xanh đưa các bạn nhỏ đến thăm quan nhà sách [...]</p>
+                    <p>Let’s gocùng Trường Mẫu Giáo Hoa Hồng đưa các bạn nhỏ đến thăm quan nhà sách [...]</p>
                 </div>
             </div>
             <div class="project-item">
@@ -380,7 +380,7 @@ $conn->close();
 
 <section class="phuhuynh-share background-section" style="background-image: url('images/bg-cmt.png');">
     <div class="ph-share">
-        <h2>Trường Mầm Non Xanh</h2>
+        <h2>Trường Mẫu Giáo Hoa Hồng</h2>
         <h1>Góc chia sẻ</h1>
         <div class="share-content">
             <div class="share-item">
@@ -451,7 +451,7 @@ $conn->close();
                         <h2 class="ft-title">Kết nối với chúng tôi</h2>
                         <li>Hotline <span><?php echo $hotline; ?></span></li>
                         <li>Email: <?php echo $email; ?></li>
-                        <li>Để tìm hiểu nhiều thông tin hơn về trường Mầm Non Xanh ba mẹ vui lòng kết nối với các kênh truyền thông sau:</li>
+                        <li>Để tìm hiểu nhiều thông tin hơn về trường Mẫu Giáo Hoa Hồng ba mẹ vui lòng kết nối với các kênh truyền thông sau:</li>
                         <div class="icon-contact">
                             <i class="fa-brands fa-facebook icon-footer"></i>
                             <i class="fa-brands fa-instagram icon-footer"></i>

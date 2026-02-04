@@ -48,7 +48,7 @@ if ($result11->num_rows > 0) {
                         <h2 class="ft-title">Kết nối với chúng tôi</h2>
                         <li>Hotline <span><?php echo $hotline; ?></span></li>
                         <li>Email: <?php echo $email; ?></li>
-                        <li>Để tìm hiểu nhiều thông tin hơn về trường Mầm Non Xanh ba mẹ vui lòng kết nối với các kênh truyền thông sau:</li>
+                        <li>Để tìm hiểu nhiều thông tin hơn về trường Mẫu Giáo Hoa Hồng ba mẹ vui lòng kết nối với các kênh truyền thông sau:</li>
                         <div class="icon-contact">
                             <i class="fa-brands fa-facebook icon-footer"></i>
                             <i class="fa-brands fa-instagram icon-footer"></i>

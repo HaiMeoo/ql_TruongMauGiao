@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../css/style.css">
     <script src="https://kit.fontawesome.com/9574f0deef.js" crossorigin="anonymous"></script>
 
-    <title>Mầm non xanh</title>
+    <title>Mẫu Giáo Hoa Hồng</title>
 
     
 </head>
@@ -37,7 +37,7 @@
             {
                 title: "BÉ HỌC KỸ NĂNG ĐỘI MŨ BẢO HIỂM ĐÚNG CÁCH! (MNMMNM NGUYỄN CHÍ THANH)",
                 date: "2025-02-15",
-                description: "Tại Mầm Non Xanh, an toàn luôn được ưu tiên hàng đầu! Hôm nay, các bé đã học được cách đội mũ bảo hiểm đúng cách qua từng bước hướng dẫn chi tiết của cô giáo từ việc quan sát đến thực hành, các bé không chỉ hiểu được tầm quan trọng của mũ bảo hiểm mà còn tự tin đội mũ một cách thành thạo.",
+                description: "Tại Mẫu Giáo Hoa Hồng, an toàn luôn được ưu tiên hàng đầu! Hôm nay, các bé đã học được cách đội mũ bảo hiểm đúng cách qua từng bước hướng dẫn chi tiết của cô giáo từ việc quan sát đến thực hành, các bé không chỉ hiểu được tầm quan trọng của mũ bảo hiểm mà còn tự tin đội mũ một cách thành thạo.",
                 image: "../images/event-mubaohiem.jpg",
                 url:"be-hoc-ky-nang-doi-mu-bao-hiem-dung-cach-mnm-nguyen-chi-thanh.php"
             },
