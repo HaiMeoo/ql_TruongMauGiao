@@ -90,7 +90,7 @@ if (isset($_POST['btn-login'])) {
     <div class="container">
         <div class="form-container">
             <form action="login.php" method="post">
-                <img src="../images/logo.png" alt="Avatar" class="avatar " style="width: 170px;">
+                <img src="../images/logo1.png" alt="Avatar" class="avatar " style="width: 170px;">
                 <h3 class="text-center">Đăng nhập</h3>
 
                 <div class="mb-3">

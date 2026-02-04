@@ -21,7 +21,7 @@ if ($result11->num_rows > 0) {
         <div class="footer">
             <div class="footer-content">
                 <div class="footer-item">
-                    <a href="index.php"><img src="../images/logo.png" alt=""></a>
+                    <a href="index.php"><img src="../images/logo1.png" alt=""></a>
                     <p>Điều hạnh phúc nhất mỗi ngày là cùng nhìn ngắm những Bạn Nhỏ học tập, vui chơi cùng nhau, và phát triển khoẻ mạnh</p>
                 </div>
                 <div class="footer-item">

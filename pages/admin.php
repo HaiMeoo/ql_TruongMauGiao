@@ -14,7 +14,7 @@
         <div class="page-top">
             <div class="page-menu">
                 <ul>
-                    <a href=''><img class="logo" src="../images/logo.png" alt=""></a>
+                    <a href=''><img class="logo" src="../images/logo1.png" alt=""></a>
                     <li class="menu-item"><a href="">
                     <i class="fa-solid fa-house icon-menu"></i>
                     <span class="menu-title">Trang chủ</span>

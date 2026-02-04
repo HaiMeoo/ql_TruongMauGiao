@@ -75,7 +75,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['btn-contact'])) {
             </div>
             <div class="header-main" >
                 <div class="logo">
-                    <a style="display: flex; justify-content: center;" href="../index.php"><img src="../images/logo.png" alt="logo"></a>
+                    <a style="display: flex; justify-content: center;" href="../index.php"><img src="../images/logo1.png" alt="logo"></a>
                 </div>
                 <div class="menu">
                     <ul>
@@ -157,7 +157,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['btn-contact'])) {
 <div id="fixedHeader" class="fixed-header">
     <div class="header-main">
                 <div class="logo">
-                    <a style="display: flex; justify-content: center;" href="../index.php"><img src="../images/logo.png" alt="logo"></a>
+                    <a style="display: flex; justify-content: center;" href="../index.php"><img src="../images/logo1.png" alt="logo"></a>
                 </div>
                 <div class="menu">
                     <ul>
