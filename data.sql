@@ -135,7 +135,7 @@ CREATE TABLE `content` (
 --
 
 INSERT INTO `content` (`id`, `name`, `title`, `description1`, `description2`, `image1`, `image2`, `image3`) VALUES
-(1, 'Trường Mầm Non Xanh', 'Nơi trải nghiệm hạnh phúc cùng con', 'Trường Mầm non Xanh Montessori được tạo dựng từ một nền tảng vững chắc của một ngôi trường hạnh phúc – nơi mỗi trẻ em được chăm sóc, hướng dẫn và đồng hành trên hành trình phát triển bản thân và hoàn thiện nhân cách.', 'Đồng thời giúp con nuôi dưỡng sự tự tin, tự lập, giúp con yêu thương và có trách nhiệm với bản thân, con được trang bị đầy đủ kỹ năng để phát huy tối đa tiềm năng. Hơn hết, con là một người hạnh phúc.', 'images/content1.png', 'images/content2.png', 'images/content3.png');
+(1, 'Trường Mầm Non Xanh', 'Nơi trải nghiệm hạnh phúc cùng con', 'Trường Mầm Non Xanh Montessori được tạo dựng từ một nền tảng vững chắc của một ngôi trường hạnh phúc – nơi mỗi trẻ em được chăm sóc, hướng dẫn và đồng hành trên hành trình phát triển bản thân và hoàn thiện nhân cách.', 'Đồng thời giúp con nuôi dưỡng sự tự tin, tự lập, giúp con yêu thương và có trách nhiệm với bản thân, con được trang bị đầy đủ kỹ năng để phát huy tối đa tiềm năng. Hơn hết, con là một người hạnh phúc.', 'images/content1.png', 'images/content2.png', 'images/content3.png');
 
 -- --------------------------------------------------------
 
