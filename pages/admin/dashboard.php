@@ -150,7 +150,7 @@ $students = getStudents($conn, $page);
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" href="/qlTruongMauGiao/pages/admin/frontend/program/list_program.php">
+                            <a class="nav-link text-white" href="/qlTruongMauGiao/pages/admin/frontend/curriculum/curriculum.php">
                                 <i class="fas fa-book me-2"></i>
                                 Quản lý chương trình học
                             </a>
